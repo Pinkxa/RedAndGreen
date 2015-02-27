@@ -1,4 +1,4 @@
- (function (){
+(function (){
 	
 	if(document.getElementById("mySquare").style.backgroundColor === "orange"){
       window.alert('success');
